@@ -37,7 +37,7 @@ I am a Cloud & DevOps Engineer passionate about building and automating scalable
 - ✅ **Auto Scaling** — Karpenter for dynamic node provisioning
 
 [![App Repo](https://img.shields.io/badge/App_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edwin-Oghenetejiri1/retrogame-microservices-k8s)
-[![Infra Repo](https://img.shields.io/badge/Infra_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edwin-Oghenetejiri1/retrogame-eks-infra)
+[![Infra Repo](https://img.shields.io/badge/Infra_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edwin-Oghenetejiri1/retrogameshop-eks-infra)
 [![Manifests Repo](https://img.shields.io/badge/Manifests_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Edwin-Oghenetejiri1/retrogame-k8s-manifests)
 
 ---
